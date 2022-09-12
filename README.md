@@ -10,9 +10,9 @@ A guide for setting up an example project can be found here: <a href="IoT_VIA_mo
 API Documentation and a overall class-diagram for drivers, library and Quick Start Guides can be found here: <a href="IoT_VIA_module/docs/index.html" target="_blank">Drivers API</a>
 
 ## Hardware Documentation
-<a href="HARDWARE-DOC.md" target="_blank">Hardware Documentation</a>
+[Drivers API](/docs/index.html)
 
-## LoRaWAN Network Server
-<a href="LORA_NETWORK_SERVER.md" target="_blank">Documentation for the Websocket output format from the LoRaWAN network server (Loriot)</a>
+## Hardware Documentation
+[Hardware Documentation](HARDWARE-DOC.md)
 
 "# IoT_VIA_module" 
